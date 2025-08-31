@@ -1,0 +1,17 @@
+{
+  "id": "employee_id",
+  "name": "employee_name",
+  "designation": "designation",
+  "gender": "gender",
+  "department": {
+    "name": "department_name"
+  },
+  "dependents": {
+    "@array": {
+      "id": "dependent_id",
+      "name": "dependent_name",
+      "relationship": "relationship",
+      "gender": "dependent_gender"
+    }
+  }
+}

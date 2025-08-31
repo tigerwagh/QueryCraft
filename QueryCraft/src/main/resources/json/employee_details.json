@@ -1,0 +1,14 @@
+{
+  "id": "id",
+  "name": "name",
+  "gender": "gender",
+  "designation": "designation",
+  "department": {
+    "name": "department_name",
+    "location": "department_location"
+  },
+  "project": {
+    "name": "project_name",
+    "location": "project_location"
+  }
+}
